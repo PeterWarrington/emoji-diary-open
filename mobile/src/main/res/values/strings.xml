@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Emoji Diary</string>
+    <string name="YourDayPrompt">Say something about your day: </string>
+    <string name="HowWasIt">How was your day? :</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="sharemsg"> Shared via Emoji Diary</string>
+    <string name="postsleft"> Post(s) left.</string>
+    <string name="ok">Ok</string>
+    <string name="suredelete">Are you sure you want to delete this entry? Images will still stay in the Pictures folder on your device.</string>
+    <string name="AddImage">Add image</string>
+    <string name="WhatDo">What do you want to do?</string>
+    <string name="createguide">To create an entry\npress \'+\'</string>
+    <string name="errorocur">An error has occurred. It has been reported.</string>
+    <string name="permissionallow">To use images you must allow this permission.</string>
+    <string name="view_privacy_policy">View blog post about Emoji Diary</string>
+    <string name="open">Open</string>
+    <string name="add_pack">Add/Select an Emoji Pack</string>
+    <string name="server_error">Could not connect to server</string>
+    <string name="done">Done</string>
+</resources>

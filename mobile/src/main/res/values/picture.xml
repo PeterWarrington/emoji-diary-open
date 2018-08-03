@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="takeOrBrowser">
+        <item>Take a picture</item>
+        <item>Select from device</item>
+    </string-array>
+</resources>
